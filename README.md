@@ -252,10 +252,10 @@ sizes = [
 | 10M | 7,599 | 16.97s | 0.19s | 0.01s | 70 MB | 135K chars/s |
 
 **Key Observations**:
-- ✅ Consistent embedding throughput: ~450 chunks/second
-- ✅ Sub-second indexing even at 10M chars
-- ✅ Instant retrieval: 0.01s regardless of corpus size
-- ✅ Excellent memory efficiency: 70 MB for 10M characters
+- Consistent embedding throughput: ~450 chunks/second
+- Sub-second indexing even at 10M chars
+- Instant retrieval: 0.01s regardless of corpus size
+- Excellent memory efficiency: 70 MB for 10M characters
 
 ## Advanced Features
 
